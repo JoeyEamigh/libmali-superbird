@@ -11,3 +11,5 @@
 .libs
 TAGS
 *\.a
+.cache
+.vscode
